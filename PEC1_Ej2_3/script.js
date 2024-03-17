@@ -125,5 +125,3 @@ currency.addEventListener('change', e=> {
 });
 
 updateSelectedCount();
-
-
